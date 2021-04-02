@@ -266,7 +266,7 @@ For deploying the website live.
 # Deployment
 
 This project was developed on [GitPod Workspaces IDE](https://gitpod.io/workspaces/) 
-(Integrated Development Environment) committed and pushed to my [Github Repository](https://github.com/Tom-Nagy/walking-around) 
+(Integrated Development Environment) committed and pushed to my [Github Repository](https://github.com/Tom-Nagy/"REPO NAME") 
 using GitPod Command Line Interface (CLI).
 
 ## Live Deployment
@@ -280,19 +280,19 @@ has been deployed on [GitHub Pages](https://pages.github.com/) as follow :
     * To create a repository see [Create a repo](https://docs.github.com/en/github/getting-started-with-github/create-a-repo).
 3. Navigate to **Settings** :
 
-![settings](assets/images/README-images/repo-settings.png)
+![settings](assets/images/README-images/deployment/repo-settings.png)
 
 4. Scroll down to the **GitHub Pages** section.
 5. Click on the **None** dropdown menu and select the branch to publish : **master**.
 
-![selection of branch to publish](assets/images/README-images/branch.png)
+![selection of branch to publish](assets/images/README-images/deployment/branch.png)
 
 6. Click on **Save**.
 7. The website is now deployed.
 
 The link to the website is found in the **GitHub Pages** section of the repository settings.
 
-![website link](assets/images/README-images/published.png)
+![website link](assets/images/README-images/deployment/published.png)
 
 
 ## Local Deployment
@@ -314,7 +314,7 @@ To clone a repository, take the following steps :
     * using SSH key
     * using GitHub CLI  
 
-![clone options](assets/images/README-images/cloning.png)
+![clone options](assets/images/README-images/deployment/cloning.png)
 
 4. Choose an option and copy the link given.
 5. Change the current working directory to the location where you want the cloned directory.
@@ -365,7 +365,7 @@ To Fork a repository take the following steps :
 2. Navigate to the corresponding repository.
 3. Identify the ```fork``` button on the top right of the page and click on it.
 
-![forking](assets/images/README-images/fork.png)
+![forking](assets/images/README-images/deployment/fork.png)
 
 4. Now you should find a copy of the repository in ```Your repositories```.
 
