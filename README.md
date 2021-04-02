@@ -280,7 +280,7 @@ has been deployed on [GitHub Pages](https://pages.github.com/) as follow :
     * To create a repository see [Create a repo](https://docs.github.com/en/github/getting-started-with-github/create-a-repo).
 3. Navigate to **Settings** :
 
-![settings](assets/images/README-images/deployment/repo-settings.png)
+![settings](assets/images/README-images/deployment/repo-settings.png) ===> TO BE ADJUSTED TO THE PROJECT SO THE RIGHT REPO NAME APPEARS ON THE IMAGE
 
 4. Scroll down to the **GitHub Pages** section.
 5. Click on the **None** dropdown menu and select the branch to publish : **master**.
