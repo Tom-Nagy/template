@@ -292,7 +292,7 @@ has been deployed on [GitHub Pages](https://pages.github.com/) as follow :
 
 The link to the website is found in the **GitHub Pages** section of the repository settings.
 
-![website link](assets/images/README-images/deployment/published.png)
+![website link](assets/images/README-images/deployment/published.png) ===> TO BE ADJUSTED TO THE PROJECT SO THE RIGHT REPO NAME APPEARS ON THE IMAGE
 
 
 ## Local Deployment
@@ -314,7 +314,7 @@ To clone a repository, take the following steps :
     * using SSH key
     * using GitHub CLI  
 
-![clone options](assets/images/README-images/deployment/cloning.png)
+![clone options](assets/images/README-images/deployment/cloning.png) ===> TO BE ADJUSTED TO THE PROJECT SO THE RIGHT REPO NAME APPEARS ON THE IMAGE
 
 4. Choose an option and copy the link given.
 5. Change the current working directory to the location where you want the cloned directory.
@@ -365,7 +365,7 @@ To Fork a repository take the following steps :
 2. Navigate to the corresponding repository.
 3. Identify the ```fork``` button on the top right of the page and click on it.
 
-![forking](assets/images/README-images/deployment/fork.png)
+![forking](assets/images/README-images/deployment/fork.png) ===> TO BE ADJUSTED TO THE PROJECT SO THE RIGHT REPO NAME APPEARS ON THE IMAGE
 
 4. Now you should find a copy of the repository in ```Your repositories```.
 
