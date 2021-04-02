@@ -9,15 +9,15 @@
 
 ## Table of Content : 
 
-* [W3C](https://github.com/Tom-Nagy/"REPO NAME"/blob/master/TESTING.md#W3C)
-* [Lighthouse](https://github.com/Tom-Nagy/"REPO NAME"/blob/master/TESTING.md#Lighthouse)
-* [Cross Browsers Testing](https://github.com/Tom-Nagy/"REPO NAME"/blob/master/TESTING.md#Cross-Browsers-Testing)
-    * [Manual Testing](https://github.com/Tom-Nagy/"REPO NAME"/blob/master/TESTING.md#Manual-Testing)
-* [User Stories Testing from UX section of the README.md](https://github.com/Tom-Nagy/"REPO NAME"/blob/master/TESTING.md#User-Stories-Testing-from-UX-section-of-the-README.md)
-    * [First Time User](https://github.com/Tom-Nagy/"REPO NAME"/blob/master/TESTING.md#First-Time-User)
-    * [Returning User](https://github.com/Tom-Nagy/"REPO NAME"/blob/master/TESTING.md#Returning-User)
-* [Further Testing](https://github.com/Tom-Nagy/"REPO NAME"/blob/master/TESTING.md#Further-Testing)
-* [Bugs](https://github.com/Tom-Nagy/"REPO NAME"/blob/master/TESTING.md#Bugs)
+* [W3C](#W3C)
+* [Lighthouse](#Lighthouse)
+* [Cross Browsers Testing](#Cross-Browsers-Testing)
+    * [Manual Testing](#Manual-Testing)
+* [User Stories Testing from UX section of the README.md](#User-Stories-Testing-from-UX-section-of-the-README.md)
+    * [First Time User](#First-Time-User)
+    * [Returning User](#Returning-User)
+* [Further Testing](#Further-Testing)
+* [Bugs](#Bugs)
 
 
 ## W3C
@@ -33,6 +33,7 @@ The results are positive and the code is valid.
 
 ![W3C CSS Validation Result](assets/images/TESTING-images/manual-testing/testing-css.png) ====> SCREENSHOT
 
+[:back:*Table of Content* ](#Table-of-Content)
 
 ## Lighthouse
 
@@ -66,6 +67,8 @@ SCREENSHOT FOR MOBILE AND DESKTOP PER PAGE: SHOULD IT BE A LINK OR THE IMAGE DIS
 * "PAGE NAME"
     * [Mobile](assets/images/TESTING-images/lighthouse/"PAGE NAME"-mobile-test.png) ====> SCREENSHOT/LINK
     * [Desktop](assets/images/TESTING-images/lighthouse/"PAGE NAME"-desktop-test.png) ====> SCREENSHOT/LINK
+
+[:back:*Table of Content* ](#Table-of-Content)
 
 ## Cross Browsers Testing
 
@@ -133,6 +136,8 @@ The following tests have been executed severals times at different viewport brea
         * Email and check if the form is valid and that an error message appears.
         * Phone and check if the form is valid and that an error message appears.
 
+[:back:*Table of Content* ](#Table-of-Content)
+
 ## User Stories Testing from UX section of the README.md
 
 ### First Time User ====> THIS TESTING PART HAVE TO BE CHANGED ADAPTED TO THE UX OF THE PROJECT
@@ -199,6 +204,8 @@ of looking for it.
     * Additional information is available at the bottom of each tip's section in a form of a link to external 
     websites.
 
+[:back:*Table of Content* ](#Table-of-Content)
+
 ## Further Testing
 
 * The website has been tested by fellow students, slack community, friends and family.
@@ -207,3 +214,5 @@ of looking for it.
 # Bugs
 
 INCLUDE A BUGS SECTIONS IN RELATION TO TESTING AND NOT DEVELOPMENT !?
+
+[:back:*Table of Content* ](#Table-of-Content)

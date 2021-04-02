@@ -26,27 +26,29 @@ SHORT DESCRIPTION AND DEFINITION OF THE WEBSITE STATUS AND GOALS
     * [Wireframes](#Wireframes)
     * [Different Design](#Different-Design)
 * [Features](#Features)
-    * [Existing Features](https://github.com/Tom-Nagy/"REPO NAME"#Existing-Features)
-    * [Features to Implement in the Future Versions](https://github.com/Tom-Nagy/"REPO NAME"#Features-to-Implement-in-the-Future-Versions)
-* [Technologies Used](https://github.com/Tom-Nagy/"REPO NAME"#Technologies-Used)
-* [Testing](https://github.com/Tom-Nagy/"REPO NAME"#Testing)
-* [Deployment](https://github.com/Tom-Nagy/"REPO NAME"#Deployment)
-    * [Live Deployment](https://github.com/Tom-Nagy/"REPO NAME"#Live-Deployment)
-    * [Local Deployment](https://github.com/Tom-Nagy/"REPO NAME"#Local-Deployment)
-* [Bugs](https://github.com/Tom-Nagy/"REPO NAME"#Bugs)
-    * [Solved](https://github.com/Tom-Nagy/"REPO NAME"#Solved)
-    * [Unsolved](https://github.com/Tom-Nagy/"REPO NAME"#Unsolved)
-* [Credits](https://github.com/Tom-Nagy/"REPO NAME"#Credits)
-    * [Content](https://github.com/Tom-Nagy/"REPO NAME"#Content)
-    * [Media](https://github.com/Tom-Nagy/"REPO NAME"#Media)
-    * [Aknowledgements](https://github.com/Tom-Nagy/"REPO NAME"#Aknowledgements)
+    * [Existing Features](#Existing-Features)
+    * [Features to Implement in the Future Versions](#Features-to-Implement-in-the-Future-Versions)
+* [Technologies Used](#Technologies-Used)
+* [Testing](#Testing)
+* [Deployment]#Deployment)
+    * [Live Deployment](#Live-Deployment)
+    * [Local Deployment](#Local-Deployment)
+* [Bugs](#Bugs)
+    * [Solved](#Solved)
+    * [Unsolved](#Unsolved)
+* [Credits](#Credits)
+    * [Content](#Content)
+    * [Media](#Media)
+    * [Aknowledgements](#Aknowledgements)
     
 
 # Project
 
+[***Table of Content***](#Table-of-Content)
+
 ### Project Goals
 
-"WHAT IS THE GOAL OF THIS PROJECT ?"
+"WHAT IS THE GOAL OF THIS PROJECT  ? ............."
 
 ### Developer and Business Goals
 
@@ -66,6 +68,8 @@ SHORT DESCRIPTION AND DEFINITION OF THE WEBSITE STATUS AND GOALS
 * GENERAL OBJECTIVES
 * SPECIFIC OBJECTIVES
 * SEEING THIS AND THAT ....
+
+[:back:*Table of Content* ](#Table-of-Content)
 
 # UX
 
@@ -88,6 +92,8 @@ SHORT DESCRIPTION AND DEFINITION OF THE WEBSITE STATUS AND GOALS
 * It provides ...
 * It gives information about ...
 
+[:back:*Table of Content* ](#Table-of-Content))
+
 ### **User Stories**
 
 1. As a first time user, I want the website to be appealing.
@@ -100,6 +106,8 @@ without the need of looking for it.
 7. As a returning user, I want to check out the different social media links for 
 inspiration and ideas.
 8. As a returning user, I want to get information ...
+
+[:back:*Table of Content* ](#Table-of-Content)
 
 ### **Design Choices**
 
@@ -134,6 +142,8 @@ They are distinctive and with a good contrast.
 
   
 "GENERAL AMD SPECIFIC FEEL OF THE WEBSITE"
+
+[:back:*Table of Content* ](#Table-of-Content)
 
 ### **Wireframes**
 
@@ -172,6 +182,8 @@ Some designs are different from the wireframes because of user experience compli
 * 
 * ....
 
+[:back:*Table of Content* ](#Table-of-Content)
+
 # Features
 
 ### **Existing Features**
@@ -198,6 +210,7 @@ DESCRIPTION OF THE FEATURE
 
 DESCRIPTION OF THE FEATURE
 
+[:back:*Table of Content* ](#Table-of-Content)
 
 ### **Features to Implement in the Future Versions**
 
@@ -216,6 +229,7 @@ CHANGES TO BE DONE
 
 FEATURES TO BE ADDED
 
+[:back:*Table of Content* ](#Table-of-Content)
 
 # Technologies Used 
 
@@ -272,6 +286,8 @@ This project was developed on [GitPod Workspaces IDE](https://gitpod.io/workspac
 (Integrated Development Environment) committed and pushed to my [Github Repository](https://github.com/Tom-Nagy/"REPO NAME") 
 using GitPod Command Line Interface (CLI).
 
+[:back:*Table of Content* ](#Table-of-Content)
+
 ## Live Deployment
 
 To make this website accessible to the public, Walking Around 
@@ -297,6 +313,7 @@ The link to the website is found in the **GitHub Pages** section of the reposito
 
 ![website link](assets/images/README-images/deployment/published.png) ===> TO BE ADJUSTED TO THE PROJECT SO THE RIGHT REPO NAME APPEARS ON THE IMAGE
 
+[:back:*Table of Content* ](#Table-of-Content)
 
 ## Local Deployment
 
@@ -372,6 +389,8 @@ To Fork a repository take the following steps :
 
 4. Now you should find a copy of the repository in ```Your repositories```.
 
+[:back:*Table of Content* ](#Table-of-Content)
+
 # Testing
 
 Testing information are published in a separate file : [TESTING.md](TESTING.md)
@@ -391,6 +410,8 @@ Solve :
 Issue : 
 
 Issue : 
+
+[:back:*Table of Content* ](#Table-of-Content)
 
 # Credit 
 
@@ -458,3 +479,5 @@ Special thanks to all Code Institute's team ("Teacher", Lecturers and Tutors) th
 Huge thank you to the [Slack](code-institute-room.slack.com) community, its all the members and all the leads and tutors for their help and support.
 
 Thanks to my mentor .......MENTOR NAME for guiding me through this project.
+
+[:back:*Table of Content* ](#Table-of-Content)
