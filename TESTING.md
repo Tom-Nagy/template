@@ -1,7 +1,7 @@
 # **WEBSITE NAME**
 
 
-**[README.md](README.md)**
+**[:leftwards_arrow_with_hook: *README.md*](README.md)**
 
 #### Visit the live Website : **[WEBSITE NAME](WEBSITE LINK)**.
 
@@ -33,7 +33,7 @@ The results are positive and the code is valid.
 
 ![W3C CSS Validation Result](assets/images/TESTING-images/manual-testing/testing-css.png) ====> SCREENSHOT
 
-[:back:*Table of Content* ](#Table-of-Content)
+[**:back:** *Table of Content* ](#Table-of-Content)
 
 ## Lighthouse
 
@@ -68,7 +68,7 @@ SCREENSHOT FOR MOBILE AND DESKTOP PER PAGE: SHOULD IT BE A LINK OR THE IMAGE DIS
     * [Mobile](assets/images/TESTING-images/lighthouse/"PAGE NAME"-mobile-test.png) ====> SCREENSHOT/LINK
     * [Desktop](assets/images/TESTING-images/lighthouse/"PAGE NAME"-desktop-test.png) ====> SCREENSHOT/LINK
 
-[:back:*Table of Content* ](#Table-of-Content)
+[**:back:** *Table of Content* ](#Table-of-Content)
 
 ## Cross Browsers Testing
 
@@ -136,7 +136,7 @@ The following tests have been executed severals times at different viewport brea
         * Email and check if the form is valid and that an error message appears.
         * Phone and check if the form is valid and that an error message appears.
 
-[:back:*Table of Content* ](#Table-of-Content)
+[**:back:** *Table of Content* ](#Table-of-Content)
 
 ## User Stories Testing from UX section of the README.md
 
@@ -204,7 +204,7 @@ of looking for it.
     * Additional information is available at the bottom of each tip's section in a form of a link to external 
     websites.
 
-[:back:*Table of Content* ](#Table-of-Content)
+[**:back:** *Table of Content* ](#Table-of-Content)
 
 ## Further Testing
 
@@ -215,4 +215,4 @@ of looking for it.
 
 INCLUDE A BUGS SECTIONS IN RELATION TO TESTING AND NOT DEVELOPMENT !?
 
-[:back:*Table of Content* ](#Table-of-Content)
+[**:back:** *Table of Content* ](#Table-of-Content)
