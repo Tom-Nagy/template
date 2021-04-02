@@ -3,11 +3,11 @@
 ![mockup](assets/images/README-images/ami-responsive-"home".png)
 
 Check out the other mockup:
-* [The club](assets/images/README-images/ami-responsive-"PAGE NAME".png)
-* [Activities](assets/images/README-images/ami-responsive-"PAGE NAME".png)
-* [Gallery](assets/images/README-images/ami-responsive-"PAGE NAME".png)
-* [Hiking Tips](assets/images/README-images/ami-responsive-"PAGE NAME".png)
-* [Join Us !](assets/images/README-images/ami-responsive-"PAGE NAME".png)
+* ["PAGE NAME"](assets/images/README-images/mockup/ami-responsive-"PAGE NAME".png)
+* ["PAGE NAME"](assets/images/README-images/mockup/ami-responsive-"PAGE NAME".png)
+* ["PAGE NAME"](assets/images/README-images/mockup/ami-responsive-"PAGE NAME".png)
+* ["PAGE NAME"](assets/images/README-images/mockup/ami-responsive-"PAGE NAME".png)
+* ["PAGE NAME"](assets/images/README-images/mockup/ami-responsive-"PAGE NAME".png)
 
 #### Visit the live Website : **["WEBSITE NAME"]("WEBSITE LINK")**.
 
