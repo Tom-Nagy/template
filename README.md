@@ -37,6 +37,9 @@ SHORT DESCRIPTION AND DEFINITION OF THE WEBSITE STATUS AND GOALS
     * [Solved](https://github.com/Tom-Nagy/"REPO NAME"#Solved)
     * [Unsolved](https://github.com/Tom-Nagy/"REPO NAME"#Unsolved)
 * [Credits](https://github.com/Tom-Nagy/"REPO NAME"#Credits)
+    * [Content](https://github.com/Tom-Nagy/"REPO NAME"#Content)
+    * [Media](https://github.com/Tom-Nagy/"REPO NAME"#Media)
+    * [Aknowledgements](https://github.com/Tom-Nagy/"REPO NAME"#Aknowledgements)
     
 
 # Project
@@ -416,19 +419,21 @@ For vertical align code snippet used in css.
 [coder coder!](https://coder-coder.com/background-image-opacity/#:~:text=There's%20no%20CSS%20property%20that,for%20the%20background%2Dimage%20property.)
 For explanation and code snippet on overlay on background image used in css. 
 
-### Social Media links :
+### Media
+
+##### Social Media links :
 
 [Facebook](WEBSITE LINK)  
 [Instagram](WEBSITE LINK)  
 [Pinterest](WEBSITE LINK)
 
 
-### "SPECIFIC PAGE" links :
+##### "SPECIFIC PAGE" links :
 
 [NAME](WEBSITE LINK)  
 [NAME](WEBSITE LINK)
 
-### Images :
+##### Images :
 
 Some of the images used on the website are taken from a ...............
 
