@@ -67,7 +67,7 @@ SHORT DESCRIPTION AND DEFINITION OF THE WEBSITE STATUS AND GOALS
 * SPECIFIC OBJECTIVES
 * SEEING THIS AND THAT ....
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 # UX
 
@@ -90,7 +90,7 @@ SHORT DESCRIPTION AND DEFINITION OF THE WEBSITE STATUS AND GOALS
 * It provides ...
 * It gives information about ...
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 ### **User Stories**
 
@@ -105,7 +105,7 @@ without the need of looking for it.
 inspiration and ideas.
 8. As a returning user, I want to get information ...
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 ### **Design Choices**
 
@@ -141,7 +141,7 @@ They are distinctive and with a good contrast.
   
 "GENERAL AMD SPECIFIC FEEL OF THE WEBSITE"
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 ### **Wireframes**
 
@@ -180,7 +180,7 @@ Some designs are different from the wireframes because of user experience compli
 * 
 * ....
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 # Features
 
@@ -208,7 +208,7 @@ DESCRIPTION OF THE FEATURE
 
 DESCRIPTION OF THE FEATURE
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 ### **Features to Implement in the Future Versions**
 
@@ -227,7 +227,7 @@ CHANGES TO BE DONE
 
 FEATURES TO BE ADDED
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 # Technologies Used 
 
@@ -278,7 +278,7 @@ For storing the repository.
 * [GitHub Pages](https://pages.github.com/)  
 For deploying the website live.
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 # Deployment
 
@@ -311,7 +311,7 @@ The link to the website is found in the **GitHub Pages** section of the reposito
 
 ![website link](assets/images/README-images/deployment/published.png) ===> TO BE ADJUSTED TO THE PROJECT SO THE RIGHT REPO NAME APPEARS ON THE IMAGE
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 ## Local Deployment
 
@@ -387,7 +387,7 @@ To Fork a repository take the following steps :
 
 4. Now you should find a copy of the repository in ```Your repositories```.
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 # Testing
 
@@ -409,7 +409,7 @@ Issue :
 
 Issue : 
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
 
 # Credit 
 
@@ -478,4 +478,4 @@ Huge thank you to the [Slack](code-institute-room.slack.com) community, its all 
 
 Thanks to my mentor .......MENTOR NAME for guiding me through this project.
 
-[**:back:** *Table of Content* ](#Table-of-Content-:)
+[**:back:** *Table of Content*](#Table-of-Content-:)
